@@ -5,6 +5,7 @@ import './App.css';
 
 function App() {
   let test = new JobTracker();
+  console.log(test);
   return (
     <div className="App">
       <header className="App-header">
